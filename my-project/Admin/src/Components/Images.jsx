@@ -1,6 +1,4 @@
 // image placements
-import React from 'react';
-
 const images = ({ children }) => {
   return (
   
